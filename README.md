@@ -5,3 +5,5 @@ I’ve been working on my first Godot 2D platformer game! I followed this [tutor
 [![Watch the video tutorial](https://img.youtube.com/vi/LOhfqjmasi0/maxresdefault.jpg)](https://www.youtube.com/watch?v=LOhfqjmasi0)
 
 I am very excited to continue exploring Godot and game development!
+
+(The free assets for this game are included in the description of the video)
